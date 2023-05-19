@@ -65,6 +65,6 @@ Este projeto está sob a licença CC0-1.0. Caso queira ler, por favor acessar a 
     </sub>
 </a>
      <a href="https://github.com/SilvaneiMartins" title="Silvanei martins" >
-    🚀
  </a>
-Feito com ❤️ por Silvanei Martins
+<br />
+🚀 Feito com ❤️ por Silvanei Martins
